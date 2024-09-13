@@ -1,12 +1,6 @@
-/* <uniquifier>: Use a unique and descriptive class name */
-/*<weight>: Use a value from 300 to 900 */
 
-.red-hat-display-<uniquifier> {
-  font-family: "Red Hat Display", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
 .navbarq {
     background: #009FFF;
     /* fallback for old browsers */
