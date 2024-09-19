@@ -23,3 +23,8 @@
     width: 75px;
     height: 75px;
 }
+.body{
+    background-image: url('img/Fondo.jpg'); /* reemplaza con la ruta de tu imagen de fondo */
+    background-size: cover; /* ajusta el tamaño de la imagen de fondo */
+    background-repeat: no-repeat; /* evita que la imagen se repita */
+}
