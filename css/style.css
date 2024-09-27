@@ -65,3 +65,13 @@ a{
     width: 128px;
     margin-bottom: 30px;
 }
+
+.arqueros {
+    height: 200px;
+    width: 200px;
+}
+
+.justificado {
+    text-align: justify;
+    max-width: 500px;
+}
