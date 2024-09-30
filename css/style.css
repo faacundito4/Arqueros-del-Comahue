@@ -19,9 +19,14 @@ h1, h2, h3, h4, h5, h6, p, a{
     height: 75px;
 }
 
+.uli{
+    align-items: center;
+}
+
 #logo {
     border-radius: 50%;
 }
+
 .img-fluido {
     width: 50px;
     height: 50px;
