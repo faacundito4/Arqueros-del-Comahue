@@ -8,7 +8,10 @@
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #ec2F4B, #009FFF);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 
+h1, h2, h3, h4, h5, h6, p, a{
+    font-family: 'Red Hat Display';
 }
 
 .logonavbar {
@@ -16,16 +19,64 @@
     height: 75px;
 }
 
+.uli{
+    align-items: center;
+}
+
 #logo {
     border-radius: 50%;
 }
+
 .img-fluido {
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
 }
 
 .introduccion{
    background-image: url(/img/IMG-20240912-WA0058.jpg);
    background-size: cover;
    height: 100vh;
+}
+
+.footer{
+    background-color: rgb(33, 37, 41);
+    justify-content: center !important;
+    text-align: center;
+    align-items: center;
+}
+
+.titulo{
+    text-align: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer1{
+    font-size: 'Red Hat Display', Lato;
+    color: rgb(255, 255, 255);
+}
+
+.partefooter{
+    width: 24%;
+}
+
+.bandera{
+    height: 77.8px;
+    width: 128px;
+    margin-bottom: 30px;
+}
+
+.arqueros {
+    height: 200px;
+    width: 200px;
+}
+
+.justificado {
+    text-align: justify;
+    max-width: 500px;
 }
